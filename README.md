@@ -1,1 +1,1 @@
-# An-Explainable-AI-approach-for-detection-of-Plant-Diseases
+# An Explainable AI approach for detection of Plant Diseases
